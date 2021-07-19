@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img  src="img/banner_acampimersos.png"/>
+    <img  src="img/banner_acampimersos.PNG"/>
 </h1>
 
 
