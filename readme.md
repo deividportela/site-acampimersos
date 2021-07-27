@@ -4,11 +4,11 @@
 
 
 <h3 align="center">
-    <a href="https://acampimersos.com.br">Acessar o site</a>
+    <a href="https://acampimersos.com.br" target="_blank">Acessar o site</a>
 </h3>
 
 ## Sobre 📝
-O site foi criando para convidar participantes para o **acampamento** e organizar e centralizar informações para o evento.
+O site foi criado para convidar participantes para o **acampamento** e organizar e centralizar informações para o evento.
 
 ---
 
