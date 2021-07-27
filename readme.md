@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-    <a href="https://acampimersos.com.br" target="_blank">Acessar o site</a>
+    <a href="https://acampimersos.com.br">Acessar o site</a>
 </h3>
 
 ## Sobre 📝
