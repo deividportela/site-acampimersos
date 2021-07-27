@@ -115,7 +115,7 @@ $mail2->Subject = "Inscrição Acampamento Imersos 😎"; // Assunto da mensagem
 
 // Define a mensagem para o acampante
 $mail2->Body = "<body style='margin: 0; padding: 0;'>
-    <table border='1' cellpadding='0' cellspacing='0' width='100%'>
+    <table border='0' cellpadding='0' cellspacing='0' width='100%'>
      <tr>
       <td  style='padding: 20px 0 30px 0;'>
         <table align='center' border='0' cellpadding='0' cellspacing='0' width='700' style='border-collapse: collapse;'>
@@ -136,9 +136,9 @@ $mail2->Body = "<body style='margin: 0; padding: 0;'>
              <td style='color: #ffffff; font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif; padding: 20px 20px; font-size: 15px;'>
                 Estamos muito felizes em saber que você fará parte deste momento incrível que viveremos nos dias <b><u>22, 23 e 24 de outubro</u></b>.
             <br><br>
-                Nossa orientação é que você pague em parcelas, <u>podendo ser em quantas você preferir!!!</u> Para não ficar apertado para ninguém😉
+                Nossa orientação é que você pague em parcelas, <u>podendo ser em até 5x no cartão de crédito!!!</u> Para não ficar apertado para ninguém😉
             <br><br>
-                Valor do acampamento é R$ xx,xx
+                Valor do acampamento é R$ 300,00
             <br><br>
                 Mas não se preocupe!!! 🤯
             <br><br>
@@ -150,8 +150,8 @@ $mail2->Body = "<body style='margin: 0; padding: 0;'>
             </tr>
 
             <tr bgcolor='#000000'>
-                <td style='color: #174ef1; font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif; padding: 40px 0 30px 0;'>
-                 <h4 color= '#eaeaea' align='center'>Caso você tenha menos de 18 anos, deverá preencher, assinar o termo de responsabilidade (em anexo) e entregar nas mãos do <u>pastor Cassiano</u>.</h4><br>
+                <td style='color: #174ef1; font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif; padding: 20px 20px;'>
+                 <h4 color= '#eaeaea' align='center'>Caso você tenha menos de 18 anos, deverá preencher, assinar o termo de responsabilidade (em anexo) e entregar nas mãos do <u>Pastor Cassiano</u>.</h4><br>
                 </td>
                </tr>
            </table>

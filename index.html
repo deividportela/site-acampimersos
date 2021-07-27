@@ -15,6 +15,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Paytone+One&family=Sarina&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/b1ed013102.js" crossorigin="anonymous"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="ico/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="ico/favicon-16x16.png">
+    <link rel="manifest" href="ico/site.webmanifest">
     <title>Acampamento Imersos</title>
 </head>
 <body>
@@ -32,6 +36,7 @@
                 </ul>
             </nav>
         </div>
+
     </header>
 
     <main>
@@ -222,7 +227,7 @@
                 <div id="form-visitante">
                     <label for="visitante"><b>É membro de alguma igreja?</b></label>
                     <input type="radio" name="userVisitante" value="sim" onclick="visitante(0)">Sim
-                    <input type="radio" name="userVisitante" value="nao" onclick="visitante(1)" checked>Não
+                    <input type="radio" name="userVisitante" value="nao" onclick="visitante(1)">Não
                     <div id="form-visitante-qual-igreja" class="inputBoxInterno">
                         <input class="inputUserInterno" name="userVisitanteQual" type="text" placeholder="Qual?">
                     </div>
@@ -245,8 +250,8 @@
             </div>
         </div>
     </form>
-    
 
+    
     <script src="script.js"></script>
 </body>
 </html>

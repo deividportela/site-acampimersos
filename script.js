@@ -87,11 +87,6 @@ function alergia(x) {
     return;
 }
 
-// IMAGENS EM PARALAX (background-attachment: fixed; NÃO TEM SUPORTE NO SAFARI)
-document.addEventListener("scroll", function(){
-  document.querySelector("body").style.backgroundPosition = '0 '+window.pageYOffset+'px';
-});
-
 /* SCROOL SUAVE (https://github.com/tigercodes-io) */ 
 const menuLinks = document.querySelectorAll('#nav a[href^="#"]');
 
@@ -99,6 +94,7 @@ function getDistanceFromTheTop(element) {
   const id = element.getAttribute("href");
   return document.querySelector(id).offsetTop;
 }
+
 
 function scrollToSection(event) {
   event.preventDefault();

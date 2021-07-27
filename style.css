@@ -66,10 +66,7 @@
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    -webkit-background-size: cover !important; 
-    -moz-background-size: cover !important;
-
+    /*background-attachment: fixed;*/
 }
 
 .home-cta {
@@ -161,9 +158,8 @@
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    /*background-attachment: fixed;*/
 }
-
 
 .nome {
     width: 100%;
@@ -248,12 +244,12 @@
 /* PARTICIPAÇÕES */
 #participacoes {
     margin-top: 60px;
-    background: url(img/bg_participacoes.jpeg);
+    background: url(img/bg-pagamentos.jpg);
     padding: 80px 0 120px;
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    /*background-attachment: fixed;*/
 }
 
 .nome-branco {
@@ -314,7 +310,7 @@
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    /*background-attachment: fixed;*/
 }
 
 #programacoes i {
@@ -340,7 +336,7 @@
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    /*background-attachment: fixed;*/
 }
 
 #pagamentos i {
@@ -368,7 +364,7 @@
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    /*background-attachment: fixed;*/
 }
 
 #final h2 {
@@ -424,12 +420,12 @@
 /* RODAPÉ */
 #rodape {
     margin-top: 60px;
-    background: url(img/bg_rodape.jpeg);
+    background-color: black;
     padding: 80px 0 120px;
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    /*background-attachment: fixed;*/
 }
 
 .rodape-informacoes {
@@ -1017,3 +1013,4 @@ input {
     }    
         
 }
+
